@@ -15,15 +15,17 @@ To use this worker, you'll need to deploy it to Cloudflare Workers. First, creat
 4. After you made it, click "Quick Edit"
 ![Step 4](https://cdn.upload.systems/uploads/yIVUwr4s.png)
 5. There are 2 variations of this code:
-### [Domain for everyone (so it serves entire dose.lol website)](https://raw.githubusercontent.com/VlastikYoutubeKo/doselol-CusDomain/main/entire-dose.lol.js)
+   - [Domain for everyone (so it serves entire dose.lol website)](https://raw.githubusercontent.com/VlastikYoutubeKo/doselol-CusDomain/main/entire-dose.lol.js)
+     1. If you use this, follow this:
+        1. Just input the code as the B below, but do not change anything.
+     
+        ![Step 5 & 6](![Step 5 & 6](https://cdn.upload.systems/uploads/wix7MGfQ.png))
 
-Just input the code as the B below, but do not change anything.
-![Step 5 & 6](https://cdn.upload.systems/uploads/wix7MGfQ.png)
-
-### [Domain for you.](https://raw.githubusercontent.com/VlastikYoutubeKo/doselol-CusDomain/main/dose.lol_slash_yourname.js)
-
-Replace `myname` in the code with your own dose.lol page name, such as `dude`.
-![Step 5 & 6](https://cdn.upload.systems/uploads/sZAxlZk4.png)
+   - [Domain for you.](https://raw.githubusercontent.com/VlastikYoutubeKo/doselol-CusDomain/main/dose.lol_slash_yourname.js)
+     1. If you use this, follow this:
+        1. Replace `myname` in the code with your own dose.lol page name, such as `dude`.
+     
+        ![Step 5 & 6](https://cdn.upload.systems/uploads/sZAxlZk4.png)
        
 6. Click "Save and Deploy".
 
