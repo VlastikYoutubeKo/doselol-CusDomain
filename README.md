@@ -1,6 +1,7 @@
 # Cloudflare Worker for Embedding dose.lol Pages (doselol-CusDomain)
 
 This Cloudflare Worker allows you to embed [dose.lol](https://dose.lol/) pages on your own domain. With this worker, you can use your own domain to show your dose.lol page, such as `bio.example.com`.
+### Code was made with [ChatGPT 3.5](https://chat.openai.com), to which i thank OpenAI for making my life easier.
 
 To use this worker, you'll need to deploy it to Cloudflare Workers. First, create an account with Cloudflare and add your domain to Cloudflare using these [steps](https://community.cloudflare.com/t/step-1-adding-your-domain-to-cloudflare/64309). Then, follow these steps:
 
