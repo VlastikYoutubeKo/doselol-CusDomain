@@ -14,8 +14,17 @@ To use this worker, you'll need to deploy it to Cloudflare Workers. First, creat
 ![Step 3](https://cdn.upload.systems/uploads/nFpnFVb0.png)
 4. After you made it, click "Quick Edit"
 ![Step 4](https://cdn.upload.systems/uploads/yIVUwr4s.png)
-5. Replace `myname` in the code with your own dose.lol page name, such as `dude`.
+5. There are 2 variations of this code:
+### [Domain for everyone (so it serves entire dose.lol website)](https://raw.githubusercontent.com/VlastikYoutubeKo/doselol-CusDomain/main/entire-dose.lol.js)
+
+Just input the code as the B below, but do not change anything.
+![Step 5 & 6](https://cdn.upload.systems/uploads/wix7MGfQ.png)
+
+### [Domain for you.](https://raw.githubusercontent.com/VlastikYoutubeKo/doselol-CusDomain/main/dose.lol_slash_yourname.js)
+
+Replace `myname` in the code with your own dose.lol page name, such as `dude`.
 ![Step 5 & 6](https://cdn.upload.systems/uploads/sZAxlZk4.png)
+       
 6. Click "Save and Deploy".
 
 Now, when someone visits `random-name.yourusername.workers.dev`, they will see your dose.lol page embedded on your domain. If they try to visit any other path on your domain, they will receive a 404 error.
