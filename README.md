@@ -19,7 +19,7 @@ To use this worker, you'll need to deploy it to Cloudflare Workers. First, creat
      1. If you use this, follow this:
         1. Just input the code as the B below, but do not change anything.
      
-        ![Step 5 & 6](![Step 5 & 6](https://cdn.upload.systems/uploads/wix7MGfQ.png))
+        ![Step 5 & 6](https://cdn.upload.systems/uploads/wix7MGfQ.png)
 
    - [Domain for you.](https://raw.githubusercontent.com/VlastikYoutubeKo/doselol-CusDomain/main/dose.lol_slash_yourname.js)
      1. If you use this, follow this:
